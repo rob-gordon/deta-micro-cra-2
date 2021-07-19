@@ -1,0 +1,1 @@
+{"id":"9614a0f6-4ad9-4055-9dcc-87ad3100cb93","space":4056,"runtime":"nodejs12.x","name":"deta-micro-cra-2","path":"tirlbj","project":"b033gu7d","account":"144798365827","region":"us-west-1","deps":["body-parser@^1.19.0","express@^4.17.1","deta@^0.0.10","cors@^2.8.5"],"envs":null,"public":true,"log_level":"debug","cron":""}

@@ -1,0 +1,12 @@
+{
+  "name": "deta-micro-cra-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "deta": "^0.0.10",
+    "express": "^4.17.1"
+  }
+}
